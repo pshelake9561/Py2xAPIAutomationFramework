@@ -1,0 +1,1 @@
+{"name": "Test CRUD operation Update(Patch).", "status": "skipped", "description": "Verify that partial update with booking id and token.", "start": 1712511296818, "stop": 1712511296818, "uuid": "aea2e4ba-4e79-4ea6-a496-3cf157e3ec57", "testCaseId": "756e362c79e0082f2ce4397da8a8be65", "fullName": "tests.test.crud.test_crud.TestCRUDBooking#test_update_booking_id_patch"}
